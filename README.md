@@ -4,6 +4,9 @@ In terms of getting cool stuff on IBM Z, just go get it.
 Or, perhaps sponsor me so I can keep going.. 
 
 
+PS: Contributors to [ZOSOpenTools](https://github.com/ZOSOpenTools) can now get [1Password for Teams](https://1password.com/teams/), to manage their keys and what-not.  
+https://github.com/1Password/1password-teams-open-source/pull/754
+
 | Project (builds on `zos/s390x`)                                | Description                                                     | Port                                                                | Upstream (and its upstream)                                                                                                                                                                                                                                                                     | Tests              |
 |----------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | :white_check_mark: https://github.com/direnv/direnv            | Load & unload env and env. variables based on working directory | :white_check_mark: https://github.com/ZOSOpenTools/direnvport       | :white_check_mark: https://github.com/direnv/direnv/pull/1094                                                                                                                                                                                                                                   | :white_check_mark: |
