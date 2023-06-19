@@ -3,7 +3,6 @@
 To get cool stuff on IBM Z, just go get it.  
 Or, perhaps sponsor me so I can keep going.. :trollface:
 
-
 PS: Contributors to [ZOSOpenTools](https://github.com/ZOSOpenTools) can now get [1Password for Teams](https://1password.com/teams/), to manage their keys and what-not.  
 https://github.com/1Password/1password-teams-open-source/pull/754
 
@@ -25,4 +24,4 @@ https://github.com/1Password/1password-teams-open-source/pull/754
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------|
 | :white_check_mark: [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Fast, cost-effective & simple time-series database                               | :white_check_mark: https://github.com/VictoriaMetrics/VictoriaMetrics/pull/3870 | :white_check_mark: |
 | :white_check_mark: [Tyk](https://github.com/tyktechnologies/tyk)                         | API gateway supporting REST, GraphQL, TCP, and gRPC                              | :construction: https://github.com/TykTechnologies/tyk/pull/4777                 | :white_check_mark: |
-| :construction: [DragonflyDB](https://github.com/dragonflydb/dragonfly)                   | Performant & scalable in-memory data store compatible with Redis & Memcached API | :construction: https://github.com/dragonflydb/dragonfly/pull/1214               |                    |
+| :white_check_mark: [DragonflyDB](https://github.com/dragonflydb/dragonfly)               | Performant & scalable in-memory data store compatible with Redis & Memcached API | :white_check_mark: https://github.com/dragonflydb/dragonfly/pull/1214           |                    |
